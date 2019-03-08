@@ -1,4 +1,6 @@
-
+---
+title: Rare event estimation
+---
 
 ### Lecture 1
 
