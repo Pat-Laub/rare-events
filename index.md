@@ -1,4 +1,3 @@
-## Rare event estimation short course
 
 
 ### Lecture 1
